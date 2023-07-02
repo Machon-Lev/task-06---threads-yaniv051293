@@ -1,0 +1,1 @@
+﻿target_sources (Task_7 PRIVATE "main.cpp")
